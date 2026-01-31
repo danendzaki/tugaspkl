@@ -7,3 +7,4 @@ Hanif  - SMK
 Amru   - SMK
 Jiyaad - SMK
 Fikri  - SMK
+Furqon - SMK

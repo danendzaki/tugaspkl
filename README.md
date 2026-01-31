@@ -1,4 +1,5 @@
 #tugaspkl
 
 *dzaki - SMK
-Zubair - SMk
+Zubair - SMK
+Fahad  - SMK
